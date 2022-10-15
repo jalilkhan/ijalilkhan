@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/jalilkhan">
   <img alt="Jalil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;
-<a href="hhttps://unix.stackexchange.com/users/81888/jalil-khan">
+</a> &nbsp;<a href="hhttps://unix.stackexchange.com/users/81888/jalil-khan">
   <img alt="Jalil's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a> &nbsp;
 <br/>
