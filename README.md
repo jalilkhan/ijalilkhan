@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Hi , I'm Jalil Khan! 👋
-### I am Drupal Lead Consultant
+### I am a Lead Consultant in Drupal/Wordpress
 
 <a href="https://www.linkedin.com/in/jalilkhan">
   <img alt="Jalil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
